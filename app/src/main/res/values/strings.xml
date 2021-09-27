@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Happy SNES</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="todo">TODO</string>
+    <string name="happy_snes">Happy Snes</string>
+</resources>
